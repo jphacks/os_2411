@@ -1,0 +1,5 @@
+C:/Users/kota/dev/os_2411/frontend/.utmp/RelWithDebInfo/s4n1e6e9/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/kota/dev/os_2411/frontend/.utmp/RelWithDebInfo/s4n1e6e9/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/kota/dev/os_2411/frontend/.utmp/RelWithDebInfo/s4n1e6e9/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/kota/dev/os_2411/frontend/.utmp/RelWithDebInfo/s4n1e6e9/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/kota/dev/os_2411/frontend/.utmp/RelWithDebInfo/s4n1e6e9/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
