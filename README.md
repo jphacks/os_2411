@@ -1,12 +1,12 @@
 # <ruby>Chronotes<rp>(</rp><rt>クロノート</rt><rp>)</rp></ruby>
 
-[![YouTube](docs/images/1.png)](https://www.youtube.com/watch?v=JpJH_WVD53E)
+[![YouTube](https://raw.githubusercontent.com/jphacks/os_2411/refs/heads/main/docs/images/1.png)](https://www.youtube.com/watch?v=JpJH_WVD53E)
 
 ## 製品概要
 
 ### 背景 (製品開発のきっかけ、課題等)
 
-![2](docs/images/2.png)
+![2](https://raw.githubusercontent.com/jphacks/os_2411/refs/heads/main/docs/images/2.png)
 
 日記や日報と言った毎日の記録をつける作業って、面倒くさいと感じたことはありませんか？  
 また、せっかくつけた記録を振り返ることなく、活用できずにいませんか？  
@@ -14,7 +14,7 @@
 
 ### 製品説明 (具体的な製品の説明)
 
-![3](docs/images/3.png)
+![3](https://raw.githubusercontent.com/jphacks/os_2411/refs/heads/main/docs/images/3.png)
 
 ChronotesはAI駆動のノート生成を行うアプリケーションです。  
 ユーザーはあらかじめアカウントを連携しておくだけで、AIが毎日の作業ログを自動で収集し、簡潔にまとめて「ノート」に書き出します。  
@@ -28,7 +28,7 @@ ChronotesはAI駆動のノート生成を行うアプリケーションです。
 
 #### 1. 特長1
 
-![6](docs/images/6.png)
+![6](https://raw.githubusercontent.com/jphacks/os_2411/refs/heads/main/docs/images/6.png)
 
 Chronotesでは、カレンダーを使用して日々の進捗を可視化することができます。  
 表示されているカレンダーは、メモに記録された文字数に基づいて日付の色が変化する仕組みを取り入れています。  
@@ -39,7 +39,7 @@ Chronotesでは、カレンダーを使用して日々の進捗を可視化す�
 
 #### 2. 特長2
 
-![8](docs/images/8.png)
+![8](https://raw.githubusercontent.com/jphacks/os_2411/refs/heads/main/docs/images/8.png)
 
 Chronotesでは、ノートの自動生成のために各サービスとの連携を行っています。  
 この例では、SlackとDiscordからは会話内容、ZennやQiitaからは記事のタイトル、GitHubからはコミットメッセージと変更内容を収集しています。  
@@ -47,24 +47,24 @@ Chronotesでは、ノートの自動生成のために各サービスとの連�
 
 #### 3. 特長3
 
-![9](docs/images/9.png)
+![9](https://raw.githubusercontent.com/jphacks/os_2411/refs/heads/main/docs/images/9.png)
 
 生成された要約文からタイトルとタグを自動生成します。
 今回の文章からは、タイトルは「SlackとDiscordの連携」、タグは「Intrinsic」「GAS」「LZ78」が生成され、計3つのタグが生成されます。
 
 #### 4. 特長4
 
-![7](docs/images/7.png)
+![7](https://raw.githubusercontent.com/jphacks/os_2411/refs/heads/main/docs/images/7.png)
 
 Chronotesでは日々の記録の可視化にも力を入れており、ノートのタグからワードと頻度を元にWordCloudを生成します。  
 これは頻度が高いワードほど大きく表示されるもので、サマリーページに表示することにより、ユーザーは特定の期間の内容を人目で把握することができます。  
 
 ### 解決出来ること
 
-![4](docs/images/4.png)
+![4](https://raw.githubusercontent.com/jphacks/os_2411/refs/heads/main/docs/images/4.png)
 
-Chronotesは、開発者やチームリーダー、自己管理を重視する人々のためのアプリケーションです。
-AIが毎日の作業ログを自動で収集し、簡潔なノートを生成します。
+Chronotesは、開発者やチームリーダー、自己管理を重視する人々のためのアプリケーションです。  
+AIが毎日の作業ログを自動で収集し、簡潔なノートを生成します。  
 これにより、日報を書く手間が省け、重要な業務に集中できるようになり、四半期や半期の評価作業もスムーズに行え、作業効率が向上します。  
 
 ### 注力したこと (こだわり等)
@@ -78,7 +78,7 @@ AIが毎日の作業ログを自動で収集し、簡潔なノートを生成し
 
 ## 開発技術
 
-![10](docs/images/10.png)
+![10](https://raw.githubusercontent.com/jphacks/os_2411/refs/heads/main/docs/images/10.png)
 
 ### 活用した技術
 
