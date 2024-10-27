@@ -95,6 +95,7 @@ AIが毎日の作業ログを自動で収集し、簡潔なノートを生成し
     <img height="48" width="48" src="https://cdn.simpleicons.org/wakatime/7d7d7d" />
     <img height="48" width="48" src="https://cdn.simpleicons.org/zenn/3EA8FF" />
     <img height="48" width="48" src="https://cdn.simpleicons.org/qiita/55C500" />
+    <img height="48" width="48" src="https://pbs.twimg.com/profile_images/540067771736813568/tIWMSAZF_400x400.png" />
 </div>
 
 * GitHub
