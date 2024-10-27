@@ -82,9 +82,20 @@ AIが毎日の作業ログを自動で収集し、簡潔なノートを生成し
 
 ### 活用した技術
 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.png" width="5%">
+
 * Gemini
 
 #### API・データ
+
+<div style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=github,gitlab" />
+    <img height="48" width="48" src="https://cdn.simpleicons.org/slack/4A154B" />
+    <img src="https://skillicons.dev/icons?i=discord" />
+    <img height="48" width="48" src="https://cdn.simpleicons.org/wakatime/fff" />
+    <img height="48" width="48" src="https://cdn.simpleicons.org/zenn/3EA8FF" />
+    <img height="48" width="48" src="https://cdn.simpleicons.org/qiita/55C500" />
+</div>
 
 * GitHub
 * GitLab
@@ -95,6 +106,8 @@ AIが毎日の作業ログを自動で収集し、簡潔なノートを生成し
 * Qiita
 
 #### フレームワーク・ライブラリ・モジュール
+
+![tech](https://skillicons.dev/icons?i=nextjs,go,docker,githubactions)
 
 * Next.js
 * TipTap
