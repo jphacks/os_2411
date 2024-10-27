@@ -92,7 +92,7 @@ AIが毎日の作業ログを自動で収集し、簡潔なノートを生成し
     <img src="https://skillicons.dev/icons?i=github,gitlab" />
     <img height="48" width="48" src="https://cdn.simpleicons.org/slack/4A154B" />
     <img src="https://skillicons.dev/icons?i=discord" />
-    <img height="48" width="48" src="https://cdn.simpleicons.org/wakatime/fff" />
+    <img height="48" width="48" src="https://cdn.simpleicons.org/wakatime/7d7d7d" />
     <img height="48" width="48" src="https://cdn.simpleicons.org/zenn/3EA8FF" />
     <img height="48" width="48" src="https://cdn.simpleicons.org/qiita/55C500" />
 </div>
