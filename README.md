@@ -84,7 +84,7 @@ Chronotesでは、
 
 ## 開発技術
 
-![9](docs/images/9.png)
+![10](docs/images/10.png)
 
 ### 活用した技術
 
