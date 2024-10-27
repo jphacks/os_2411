@@ -2,6 +2,8 @@
 
 [![YouTube](https://raw.githubusercontent.com/jphacks/os_2411/refs/heads/main/docs/images/1.png)](https://www.youtube.com/watch?v=JpJH_WVD53E)
 
+**[紹介動画](https://www.youtube.com/watch?v=JpJH_WVD53E)**
+
 ## 製品概要
 
 ### 背景 (製品開発のきっかけ、課題等)
