@@ -126,6 +126,9 @@ AIが毎日の作業ログを自動で収集し、簡潔なノートを生成し
 
 * [対応するサービスの拡大 (connpass, Wakatime)](https://github.com/yashikota/chronotes/pull/105)
 
+    connpassからは参加したイベントのタイトル、Wakatimeから1日の作業時間を取得が可能になった。
+  
+
 * [ノートを他のユーザーとシェアできる機能の作成](https://github.com/yashikota/chronotes/pull/141)
 
     生成されたノートはセキュリティ上、所有者本人のみ閲覧できるが、外部に公開したい場面もありうる。  
