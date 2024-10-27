@@ -41,13 +41,17 @@ Chronotesでは、カレンダーを使用して日々の進捗を可視化す�
 
 ![7](docs/images/7.png)
 
+Chronotesでは、
+
+#### 3. 特長3
+![8](docs/images/8.png)
+
 Chronotesでは、ノートの自動生成のために各サービスとの連携を行っています。  
 この例では、SlackとDiscordからは会話内容、ZennやQiitaからは記事のタイトル、GitHubからはコミットメッセージと変更内容を収集しています。  
 これらの収集されたデータはGeminiによって要約され、ノートとして出力されます。
+#### 4. 特長4
 
-#### 3. 特長3
-
-![8](docs/images/8.png)
+![9](docs/images/9.png)
 
 生成された要約文からタイトルとタグを自動生成します。
 今回の文章からは、タイトルは「SlackとDiscordの連携」、タグは「Intrinsic」「GAS」「LZ78」が生成され、計3つのタグが生成されます。
